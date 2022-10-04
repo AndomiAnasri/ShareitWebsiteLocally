@@ -1,0 +1,60 @@
+2022-09-13T07:06:53+00:00 CRITICAL Object of class mysqli could not be converted to string in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php on line 28
+
+2022-09-13T07:08:12+00:00 CRITICAL Object of class mysqli could not be converted to string in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php on line 28
+
+2022-09-13T07:08:18+00:00 CRITICAL Object of class mysqli could not be converted to string in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php on line 28
+
+2022-09-13T07:15:40+00:00 CRITICAL Object of class mysqli_result could not be converted to string in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php on line 35
+
+2022-09-13T07:17:40+00:00 CRITICAL syntax error, unexpected '}' in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php on line 36
+
+2022-09-13T07:26:58+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php on line 436
+
+2022-09-13T07:35:44+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php:22
+Stack trace:
+#0 C:\wamp64\www\shareit\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\shareit\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\s...')
+#2 C:\wamp64\www\shareit\index.php(17): require('C:\\wamp64\\www\\s...')
+#3 {main}
+  thrown in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php on line 22
+
+2022-09-13T07:35:59+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php:22
+Stack trace:
+#0 C:\wamp64\www\shareit\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\shareit\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\s...')
+#2 C:\wamp64\www\shareit\index.php(17): require('C:\\wamp64\\www\\s...')
+#3 {main}
+  thrown in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php on line 22
+
+2022-09-13T07:36:07+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php:22
+Stack trace:
+#0 C:\wamp64\www\shareit\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\shareit\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\s...')
+#2 C:\wamp64\www\shareit\index.php(17): require('C:\\wamp64\\www\\s...')
+#3 {main}
+  thrown in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php on line 22
+
+2022-09-13T07:36:12+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php:22
+Stack trace:
+#0 C:\wamp64\www\shareit\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\shareit\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\s...')
+#2 C:\wamp64\www\shareit\index.php(17): require('C:\\wamp64\\www\\s...')
+#3 {main}
+  thrown in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php on line 22
+
+2022-09-13T07:39:48+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php:22
+Stack trace:
+#0 C:\wamp64\www\shareit\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\shareit\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\s...')
+#2 C:\wamp64\www\shareit\index.php(17): require('C:\\wamp64\\www\\s...')
+#3 {main}
+  thrown in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php on line 22
+
+2022-09-13T07:40:18+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php:22
+Stack trace:
+#0 C:\wamp64\www\shareit\wp-includes\template-loader.php(106): include()
+#1 C:\wamp64\www\shareit\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\s...')
+#2 C:\wamp64\www\shareit\index.php(17): require('C:\\wamp64\\www\\s...')
+#3 {main}
+  thrown in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php on line 22
+

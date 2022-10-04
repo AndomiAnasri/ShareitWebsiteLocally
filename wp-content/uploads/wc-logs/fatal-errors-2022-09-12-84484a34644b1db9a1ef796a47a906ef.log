@@ -1,0 +1,18 @@
+2022-09-12T09:46:53+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\shareit\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(99) : eval()'d code on line 2
+
+2022-09-12T09:47:13+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\shareit\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(99) : eval()'d code on line 2
+
+2022-09-12T09:55:57+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in C:\wamp64\www\shareit\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(99) : eval()'d code on line 4
+
+2022-09-12T09:56:03+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in C:\wamp64\www\shareit\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(99) : eval()'d code on line 4
+
+2022-09-12T09:56:44+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in C:\wamp64\www\shareit\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(99) : eval()'d code on line 4
+
+2022-09-12T09:56:51+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in C:\wamp64\www\shareit\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(99) : eval()'d code on line 4
+
+2022-09-12T09:56:58+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in C:\wamp64\www\shareit\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(99) : eval()'d code on line 4
+
+2022-09-12T09:57:02+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in C:\wamp64\www\shareit\wp-content\plugins\insert-php-code-snippet\shortcode-handler.php(99) : eval()'d code on line 4
+
+2022-09-12T10:03:09+00:00 CRITICAL syntax error, unexpected '<' in C:\wamp64\www\shareit\wp-content\themes\astra\template-parts\customSec.php on line 12
+

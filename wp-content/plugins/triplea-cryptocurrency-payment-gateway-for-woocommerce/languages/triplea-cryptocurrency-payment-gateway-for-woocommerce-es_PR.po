@@ -1,0 +1,329 @@
+# Translation of Plugins - Cryptocurrency Payment Gateway for WooCommerce - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Cryptocurrency Payment Gateway for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-04 05:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: es_PR\n"
+"Project-Id-Version: Plugins - Cryptocurrency Payment Gateway for WooCommerce "
+"- Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Puerto Rico)"
+
+#: WooCommerce/class-triplea-payment-gateway.php:562
+#, php-format
+msgid ""
+"%1$s With %2$s you get to choose how your cryptocurrency payments are "
+"settled to you: %3$s or %4$s."
+msgstr ""
+"%1$s Con %2$s puedes elegir cómo se te liquidan tus pagos en criptomoneda: "
+"%3$s o %4$s."
+
+#: WooCommerce/class-triplea-payment-gateway.php:1108
+msgid "Bad attempt, invalid nonce for checkout_start"
+msgstr "Bad attempt, invalid nonce for checkout_start"
+
+#: WooCommerce/class-triplea-payment-gateway.php:2141
+msgid "Bad attempt, invalid nonce for payment form data request"
+msgstr "Bad attempt, invalid nonce for payment form data request"
+
+#: WooCommerce/views/triplea-payment-gateway-settings-payment-mode.php:268
+msgctxt "button label"
+msgid "Show settlement options"
+msgstr "Mostrar opciones de liquidación"
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:211
+msgid "Clear debug log"
+msgstr "Borrar el registro de depuración"
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:212
+msgid ""
+"Clear the debug log (upon saving this form, log is cleared and this option "
+"is then toggled off again)"
+msgstr ""
+"Borrar el registro de depuración (al guardar este formulario, el registro se "
+"borra y esta opción se desactiva de nuevo)"
+
+#. Plugin Name of the plugin/theme
+#| msgid "Cryptocurrency Payment Gateway for WooCommerce"
+msgid "Crypto Payment Gateway for WooCommerce"
+msgstr "Pasarela de pago Crypto para WooCommerce"
+
+#: WooCommerce/class-triplea-payment-gateway.php:1444
+#: WooCommerce/views/triplea-payment-gateway-settings-plugin-options.php:240
+#: WooCommerce/views/triplea-payment-gateway-settings-plugin-options.php:560
+msgid "Cryptocurrency"
+msgstr "Criptomoneda"
+
+#: WooCommerce/class-triplea-payment-gateway.php:363
+#: WooCommerce/class-triplea-payment-gateway.php:364
+msgid "Cryptocurrency Payment Gateway"
+msgstr "Pasarela de pago Bitcoin"
+
+#: Admin/class-admin.php:114
+msgid "Cryptocurrency payment settings"
+msgstr "Ajustes de pago de criptodivisas"
+
+#: WooCommerce/class-triplea-payment-gateway.php:1288
+#| msgid "Bitcoin payments disabled, no active wallets."
+msgid "Cryptocurrency payments disabled, no active wallets."
+msgstr "Pagos de criptodivisas deshabilitados, no hay carteras activas."
+
+#: WooCommerce/class-triplea-payment-gateway.php:1284
+msgid "Cryptocurrency Payments disabled."
+msgstr "Pagos de criptodivisas desactivados."
+
+#: WooCommerce/views/triplea-payment-gateway-settings-payment-mode.php:262
+#: WooCommerce/views/triplea-payment-gateway-settings-payment-mode.php:265
+msgid "cryptocurrency testnet faucets"
+msgstr "grifos de la red de pruebas de criptomonedas"
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:166
+msgid "Decide how you want your money to be delivered to you."
+msgstr "Decida cómo quiere que se le entregue el dinero."
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:189
+#: WooCommerce/triplea-payment-gateway-settings-page.php:190
+msgid "Enable debug log"
+msgstr "Activar el registro de depuración"
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:196
+#: WooCommerce/triplea-payment-gateway-settings-page.php:197
+msgid "Enable debug log for TripleA Support"
+msgstr "Activar el registro de depuración para el soporte de TripleA"
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:139
+msgid "Enable/Disable"
+msgstr "Activar/desactivar"
+
+#: WooCommerce/class-triplea-payment-gateway.php:2109
+msgid "exact amount"
+msgstr "cantidad exacta"
+
+#: Admin/class-plugins-page.php:43
+msgid "F.A.Q."
+msgstr "PREGUNTAS FRECUENTES"
+
+#. Author URI of the plugin/theme
+msgid "https://triple-a.io"
+msgstr "https://triple-a.io"
+
+#. Plugin URI of the plugin/theme
+msgid "https://triple-a.io/crypto-payments-for-e-commerce"
+msgstr "https://triple-a.io/crypto-payments-for-e-commerce"
+
+#: WooCommerce/class-triplea-payment-gateway.php:567
+msgid "in cryptocurrency"
+msgstr "en criptomoneda"
+
+#: WooCommerce/class-triplea-payment-gateway.php:568
+msgid "in your local currency"
+msgstr "en su moneda local"
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:198
+msgid ""
+"Include credentials in debug log, only activate if requested by TripleA "
+"Support and clear the debug log after sharing the debug log with the support "
+"team."
+msgstr ""
+"Incluir las credenciales en el registro de depuración, activarlo sólo si lo "
+"solicita el Soporte de TripleA y borrar el registro de depuración después de "
+"compartirlo con el equipo de soporte."
+
+#: WooCommerce/views/triplea-payment-gateway-settings-payment-mode.php:275
+msgctxt "Live Cryptocurrency payments are enabled."
+msgid "Live"
+msgstr "En vivo"
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:151
+msgid "Live Mode"
+msgstr "Modo Live (en vivo)"
+
+#: WooCommerce/class-triplea-payment-gateway.php:2124
+msgid "loading..."
+msgstr "cargando..."
+
+#. Description of the plugin/theme
+msgid ""
+"Offer cryptocurrency as a payment option on your website and get access to "
+"even more clients. Receive payments in cryptocurrency or in your local "
+"currency, directly in your bank account. Enjoy an easy setup, no "
+"cryptocurrency expertise required. Powered by TripleA."
+msgstr ""
+"Ofrezca criptodivisas como opción de pago en su sitio web y acceda a aún más "
+"clientes. Reciba pagos en criptomoneda o en su moneda local, directamente en "
+"su cuenta bancaria. Disfrute de una fácil configuración, sin necesidad de "
+"experiencia en criptodivisas. Desarrollado por TripleA."
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:213
+msgid "On production, if you need to debug, clear the log afterwards!"
+msgstr ""
+"En los sitios web de producción, si necesitas depurar, borra el registro "
+"después."
+
+#: WooCommerce/class-triplea-payment-gateway.php:1758
+msgid ""
+"Order will be marked as invalid, you may choose to refund the customer "
+"through your TripleA dashboard."
+msgstr ""
+"El pedido se marcará como inválido, puede optar por reembolsar al cliente a "
+"través de su panel de control de TripleA."
+
+#: WooCommerce/class-triplea-payment-gateway.php:2107
+msgid "Pay with Cryptocurrency"
+msgstr "Pagar con criptodivisas"
+
+#: WooCommerce/class-triplea-payment-gateway.php:1766
+msgid "Payment Failed"
+msgstr "Pago fallido"
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:165
+msgid "Payment mode"
+msgstr "Modo de pago"
+
+#: WooCommerce/class-triplea-payment-gateway.php:2108
+#, php-format
+msgid ""
+"Please pay the %1$s. Avoid paying from a crypto exchange, use your personal "
+"wallet."
+msgstr ""
+"Por favor, pague el %1$s. Evite pagar desde un intercambio de criptomonedas, "
+"utilice su cartera personal."
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:182
+msgid "Plugin options"
+msgstr "Opciones de los plugins"
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:183
+msgid "Plugin options input fields and info"
+msgstr "Campos de entrada de opciones del plugin e información"
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:204
+msgid "Preserve Settings"
+msgstr "Conservar la configuración"
+
+#: WooCommerce/class-triplea-payment-gateway.php:1452
+#: WooCommerce/class-triplea-payment-gateway.php:1459
+#: WooCommerce/views/triplea-payment-gateway-settings-plugin-options.php:287
+#: WooCommerce/views/triplea-payment-gateway-settings-plugin-options.php:553
+msgid "Secure and easy payment with Cryptocurrency"
+msgstr "Pago seguro y fácil con criptodivisas"
+
+#: WooCommerce/class-triplea-payment-gateway.php:376
+#| msgid "Secure and easy payment with Bitcoin using the Triple-A.io service."
+msgid ""
+"Secure and easy payment with Cryptocurrency using the Triple-A.io service."
+msgstr "Pago seguro y fácil con criptomoneda usando el servicio Triple-A.io."
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:154
+#| msgid ""
+#| "Select LIVE mode when ready to accept bitcoin payments from the public. "
+#| "Payment option will only be visible to Admin users in TEST mode."
+msgid ""
+"Select LIVE mode when ready to accept cryptocurrency payments from the "
+"public. Payment option will only be visible to Admin users in TEST mode."
+msgstr ""
+"Seleccione el modo LIVE cuando esté listo para aceptar pagos en criptomoneda "
+"del público. La opción de pago solo será visible para los usuarios "
+"administradores en el modo TEST."
+
+#: Admin/class-plugins-page.php:42
+msgid "Settings"
+msgstr "Configuración"
+
+#: WooCommerce/class-triplea-payment-gateway.php:1757
+msgid ""
+"Shopping cart contents were modified between the moment the cryptocurrency "
+"payment form was displayed and the moment the cryptocurrency payment was "
+"made."
+msgstr ""
+"El contenido del carrito de la compra se modificó entre el momento en que se "
+"mostró el formulario de pago con criptomoneda y el momento en que se realizó "
+"el pago con criptomoneda."
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:150
+msgid "Test Mode"
+msgstr "Modo de prueba"
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:147
+msgid "Test or Live Mode"
+msgstr "Modo de prueba o en vivo"
+
+#: WooCommerce/views/triplea-payment-gateway-settings-payment-mode.php:256
+msgid "testnet cryptocurrency wallet"
+msgstr "testnet cryptocurrency wallet"
+
+#. translators: 1. URL link.
+#: Admin/class-admin.php:54
+msgid ""
+"TripleA Cryptocurrency Payment Gateway plugin requires WooCommerce to be "
+"installed and active. You can download %s here."
+msgstr ""
+"El plugin TripleA Cryptocurrency Payment Gateway requiere que WooCommerce "
+"esté instalado y activo. Puedes descargar %s aquí."
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:140
+#| msgid "Accept cryptocurrency payments"
+msgid "TripleA Cryptocurrency Payments"
+msgstr "Aceptar pagos en criptomoneda"
+
+#. Author of the plugin/theme
+msgid "TripleA Team"
+msgstr "Equipo TripleA"
+
+#: WooCommerce/class-triplea-payment-gateway.php:572
+msgid "TripleA TEST MODE enabled."
+msgstr "Modo de prueba TripleA activado."
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:190
+msgid "view log"
+msgstr "ver registro"
+
+#: WooCommerce/views/triplea-payment-gateway-settings-payment-mode.php:262
+#, php-format
+msgctxt ""
+"View transactions in your own wallet or in your TripleA dashboard with the "
+"credentials you have received by email."
+msgid ""
+"View transactions in your own wallet or %s with the credentials you have "
+"received by email."
+msgstr ""
+"Vea las transacciones en su propio monedero o %s con las credenciales que ha "
+"recibido por correo electrónico."
+
+#: WooCommerce/triplea-payment-gateway-settings-page.php:205
+msgid "Want to keep the settings after uninstalling the plugin?"
+msgstr "¿Quieres mantener la configuración después de desinstalar el plugin?"
+
+#: WooCommerce/class-triplea-payment-gateway.php:1280
+msgid "You are now accepting cryptocurrency payments."
+msgstr "Ahora acepta pagos en criptomoneda."
+
+#: WooCommerce/views/triplea-payment-gateway-settings-payment-mode.php:265
+#, php-format
+msgctxt "You can use cryptocurrency testnet faucets to easily test payments"
+msgid "You can use %s to easily test payments."
+msgstr "Puede utilizar %s para probar fácilmente los pagos."
+
+#: WooCommerce/views/triplea-payment-gateway-settings-payment-mode.php:256
+#, php-format
+#| msgctxt ""
+#| "You have chosen to receive sandbox bitcoin payments straight in your own "
+#| "testnet bitcoin wallet."
+#| msgid ""
+#| "You have chosen to receive sandbox bitcoin payments straight in your own "
+#| "%s."
+msgctxt ""
+"You have chosen to receive sandbox cryptocurrency payments straight in your "
+"own testnet cryptocurrency wallet."
+msgid ""
+"You have chosen to receive sandbox cryptocurrency payments straight in your "
+"own %s."
+msgstr ""
+"Has elegido recibir pagos de criptodivisas en sandbox directamente en tus "
+"propios %s."
